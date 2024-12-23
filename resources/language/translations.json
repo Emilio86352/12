@@ -4,27 +4,27 @@
   },
   "pt-br": {
     "index": {
-      "title": "VOCÊ ME AMA?",
-      "btnYes": "SIM",
-      "btnNo": "NÃO",
-      "rejectMessage": "SE NÃO ME AMA APENAS ME MAMA"
+      "title": "Tú me amas?",
+      "btnYes": "Sí",
+      "btnNo": "No (Me gusta otro)",
+      "rejectMessage": "Si no me amas dejame solo :("
     },
     "presente": {
-      "title": "UMA FLOR PARA OUTRA FLOR, PARABÉNS MEU AMOR, EU TE AMO!"
+      "title": "Feliz mesiversario bebe, seguro que pensabas que me había olvidado, te amo chavita"
     },
     "errors": {
-      "loadTranslations": "Erro ao carregar o arquivo de traduções"
+      "loadTranslations": "Error loading the translation file"
     }
   },
   "en-us": {
     "index": {
-      "title": "DO YOU LOVE ME?",
-      "btnYes": "YES",
-      "btnNo": "NO",
-      "rejectMessage": "IF YOU DON'T LOVE ME, JUST LEAVE ME ALONE"
+      "title": "Tú me amas?",
+      "btnYes": "Sí",
+      "btnNo": "No (Me gusta otro)",
+      "rejectMessage": "Si no me amas dejame solo :("
     },
     "presente": {
-      "title": "A FLOWER FOR ANOTHER FLOWER, HAPPY BIRTHDAY MY LOVE, I LOVE YOU!"
+      "title": "Feliz mesiversario bebe, seguro que pensabas que me había olvidado, te amo chavita"
     },
     "errors": {
       "loadTranslations": "Error loading the translation file"
@@ -32,44 +32,44 @@
   },
   "zh-cn": {
     "index": {
-      "title": "你爱我吗?",
-      "btnYes": "是的",
-      "btnNo": "不",
-      "rejectMessage": "如果你不爱我，请离开我"
+      "title": "Tú me amas?",
+      "btnYes": "Sí",
+      "btnNo": "No (Me gusta otro)",
+      "rejectMessage": "Si no me amas dejame solo :("
     },
     "presente": {
-      "title": "一朵花送给另一朵花，生日快乐，我爱你！"
+      "title": "Feliz mesiversario bebe, seguro que pensabas que me había olvidado, te amo chavita！"
     },
     "errors": {
-      "loadTranslations": "加载翻译文件时出错"
+      "loadTranslations": "Error loading the translation file"
     }
   },
   "ru-ru": {
     "index": {
-      "title": "ТЫ ЛЮБИШЬ МЕНЯ?",
-      "btnYes": "ДА",
-      "btnNo": "НЕТ",
-      "rejectMessage": "ЕСЛИ ТЫ МЕНЯ НЕ ЛЮБИШЬ, ПРОСТО ОСТАВЬ МЕНЯ В ПОКОЕ"
+      "title": "Tú me amas?",
+      "btnYes": "Sí",
+      "btnNo": "No (Me gusta otro)",
+      "rejectMessage": "Si no me amas dejame solo :("
     },
     "presente": {
-      "title": "ЦВЕТОК ДЛЯ ДРУГОГО ЦВЕТКА, С ДНЁМ РОЖДЕНИЯ, МОЯ ЛЮБОВЬ, Я ТЕБЯ ЛЮБЛЮ!"
+      "title": "Feliz mesiversario bebe, seguro que pensabas que me había olvidado, te amo chavita"
     },
     "errors": {
-      "loadTranslations": "Ошибка при загрузке файла перевода"
+      "loadTranslations": "Error loading the translation file"
     }
   },
   "de-de": {
     "index": {
-      "title": "LIEBST DU MICH?",
-      "btnYes": "JA",
-      "btnNo": "NEIN",
-      "rejectMessage": "WENN DU MICH NICHT LIEBST, LASS MICH EINFACH IN RUHE"
+      "title": "Tú me amas?",
+      "btnYes": "Sí",
+      "btnNo": "No (Me gusta otro)",
+      "rejectMessage": "Si no me amas dejame solo :("
     },
     "presente": {
-      "title": "EINE BLUME FÜR EINE ANDERE BLUME, ALLES GUTE ZUM GEBURTSTAG MEINE LIEBE, ICH LIEBE DICH!"
+      "title": "Feliz mesiversario bebe, seguro que pensabas que me había olvidado, te amo chavita"
     },
     "errors": {
-      "loadTranslations": "Fehler beim Laden der Übersetzungsdatei"
+      "loadTranslations": "Error loading the translation file"
     }
   }
 }
